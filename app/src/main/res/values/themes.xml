@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BitFitPart1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/tealPrimaryLight</item>
+        <item name="colorPrimaryDark">@color/tealPrimaryDark</item>
+        <item name="colorAccent">@color/accentLight</item>
+        <item name="android:textColor">@color/textLight</item>
+        <item name="android:fontFamily">@font/custom_font</item>
+    </style>
+
+    <style name="Theme.BitFitPart1" parent="Base.Theme.BitFitPart1" />
+</resources>
